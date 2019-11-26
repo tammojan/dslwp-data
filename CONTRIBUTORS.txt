@@ -1,0 +1,43 @@
+The following people have collaborated in the DSLWP amateur radio mission.
+When redistributing raw data, please also include this CONTRIBUTORS.txt file.
+
+Harbin Institute of Technology BY2HIT:
+Wei Mingchuan BG2BHC
+Hu Chaoran BG2CRY
+Tai Mier KG5TEP
+Zhao Yuhao BG2DGR
+
+CAMRAS Dwingeloo Radio Telescope PI9CAM:
+Cees Bassa
+Tammo Jan Dijkema
+Paul Boven PE1NUT
+Jan van Muijlwijk PA3FXB
+Harry Keizer PE1CHQ
+André Offringa
+Simon Bijlsma PA7SB
+Pieter-Tjerk de Boer PA3FWM
+
+Independent contributors:
+Reinhard Kühn DK5LA
+Daniel Estevez EA4GPZ
+Imants Tukleris YL3CT
+Mike Rupprecht DK3WN
+Robert Mattaliano N6RFM
+Dimitry Borzenko 4Z5CP
+Lucio Perrone I0LYL
+Jizhuang Ma BG2KAJ
+kkisiura@wakayama-u.ac.jp
+Peter SP5ULN
+
+PY2SDR
+K4KDR
+PY4ZBZ
+KC4LE
+3B8DU
+IW1DTU
+DL0FHA
+PD0OXW
+JA5BLZ
+F8COD
+PD0OX
+W8KHP
