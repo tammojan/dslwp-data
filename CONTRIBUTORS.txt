@@ -19,6 +19,12 @@ Jishnu Nambissan VU3VWB
 Simon Bijlsma PA7SB
 Pieter-Tjerk de Boer PA3FWM
 
+Wakayama University:
+Jizhuang Ma BG2KAJ
+kkisiura@wakayama-u.ac.jp
+
+Amateur Radio Group at RWTH Aachen Universtiy DL0FHA
+
 Independent contributors:
 Reinhard Kühn DK5LA
 Daniel Estevez EA4GPZ
@@ -27,19 +33,14 @@ Mike Rupprecht DK3WN
 Robert Mattaliano N6RFM
 Dimitry Borzenko 4Z5CP
 Lucio Perrone I0LYL
-Jizhuang Ma BG2KAJ
-kkisiura@wakayama-u.ac.jp
 Peter SP5ULN
-
-PY2SDR
-K4KDR
-PY4ZBZ
-KC4LE
-3B8DU
-IW1DTU
-DL0FHA
-PD0OXW
+Edson Pereira PY2SDR
+Scott Chapman K4KDR
+Roland Marcel Zurmely PY4ZBZ
+W. M. Willoughby KC4LE
+Jean Marc Momple 3B8DU
+Ferruccio Paglia IW1DTU
+Albert van Deursen PD0OXW
 JA5BLZ
-F8COD
-PD0OX
-W8KHP
+Tom Moretto F8COD
+Allen Vinegar W8KHP
