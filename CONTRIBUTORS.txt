@@ -6,6 +6,7 @@ Wei Mingchuan BG2BHC
 Hu Chaoran BG2CRY
 Tai Mier KG5TEP
 Zhao Yuhao BG2DGR
+Huang Jiahe
 
 CAMRAS Dwingeloo Radio Telescope PI9CAM:
 Cees Bassa
