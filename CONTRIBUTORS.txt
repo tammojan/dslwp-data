@@ -63,20 +63,20 @@ Zhu ShaoHua, BD4SY
 Li Changhai, BG2AGN
 Edson Pereira, PY2SDR
 Robert Mattaliano, N6RFM
-CD3NDC
+Nico Donoso, CD3NDC
 Roland Marcel Zurmely, PY4ZBZ
-PY2ZX
+Flávio Arcangelo, PY2ZX
 Jean Marc Momple, 3B8DU
-3B8FA
+Patrice Momplé, 3B8FA
 Dimitry Borzenko, 4Z5CP
-BD9BU
-BG6LQV
+Wang Qi, BD9BU
+Jiang Lei, BG6LQV
 BG8IXQ
 Mike Rupprecht, DK3WN
-G4RGK
+Dave Dibley, G4RGK
 Lucio Perrone, I0LYL
-IK8XLD
-IU2EFA
+Rocco Labella, IK8XLD
+William, ViIU2EFA
 Ferruccio Paglia, IW1DTU
 JA0CAW
 JA1HCB
@@ -99,5 +99,5 @@ SQ3SWF
 SQ5KTM
 VK5EI
 VK5QI
-W2RTV
+Rocco Valenzano, W2RTV
 Imants Tukleris, YL3CT
