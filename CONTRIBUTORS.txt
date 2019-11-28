@@ -2,45 +2,102 @@ The following people have collaborated in the DSLWP amateur radio mission.
 When redistributing raw data, please also include this CONTRIBUTORS.txt file.
 
 Harbin Institute of Technology BY2HIT:
-Wei Mingchuan BG2BHC
-Hu Chaoran BG2CRY
-Tai Mier KG5TEP
-Zhao Yuhao BG2DGR
+Wei Mingchuan, BG2BHC
+Hu Chaoran, BG2CRY
+Tai Mier, KG5TEP
+Zhao Yuhao, BG2DGR
 Huang Jiahe
+Han Yongbo, BG2CYR
+Wang Hongxu
+Zhang Jiyao
+Guo Qing, BG2DGG
+Pei Le, BG2CSF
+Wang Xizi
+Su Yusen
+Miao Yue
+Wang Cheng
+Cao Mengyu, BG2CYQ
+Yang Pan
+Zhao Hao
+Wang Tianci, BG2EBZ
+Li Yutong
+Li Jiqing
 
 CAMRAS Dwingeloo Radio Telescope PI9CAM:
 Cees Bassa
 Tammo Jan Dijkema
-Paul Boven PE1NUT
-Jan van Muijlwijk PA3FXB
-Harry Keizer PE1CHQ
+Paul Boven, PE1NUT
+Jan van Muijlwijk, PA3FXB
+Harry Keizer, PE1CHQ
 André Offringa
-Jishnu Nambissan VU3VWB
-Simon Bijlsma PA7SB
-Pieter-Tjerk de Boer PA3FWM
+Jishnu Nambissan, VU3VWB
+Simon Bijlsma, PA7SB
+Pieter-Tjerk de Boer, PA3FWM
+Vanessa Moss
 
-Wakayama University:
-Jizhuang Ma BG2KAJ
-kkisiura@wakayama-u.ac.jp
+Kansai EME Enthusiasts at Wakayama:
+Ishihara Masaji, JH3BUM
+Kishiura Kazuki, JH3NYP
+Morita Katsumi, JA3RVS
+Akiyama Hiroaki
+Ma Jizhuang, BG2KAJ
 
-Amateur Radio Group at RWTH Aachen Universtiy DL0FHA
+Chinese Radio Amateurs Club
+
+Beijing Aerospace Flight Control Center
+
+State Radio Monitoring Center
+
+National Astronomical Observatory of China
+
+Amateur Radio Club Of The 1st Primary School Of Tongfuzhong Road, Guangzhou, BY7KTO
+
+Amateur Radio Group at RWTH Aachen University, DL0FHA
 
 Independent contributors:
-Reinhard Kühn DK5LA
-Daniel Estevez EA4GPZ
-Imants Tukleris YL3CT
-Mike Rupprecht DK3WN
-Robert Mattaliano N6RFM
-Dimitry Borzenko 4Z5CP
-Lucio Perrone I0LYL
-Peter SP5ULN
-Edson Pereira PY2SDR
-Scott Chapman K4KDR
-Roland Marcel Zurmely PY4ZBZ
-W. M. Willoughby KC4LE
-Jean Marc Momple 3B8DU
-Ferruccio Paglia IW1DTU
-Albert van Deursen PD0OXW
+Reinhard Kühn, DK5LA
+Daniel Estevez, EA4GPZ
+Zhang Jianhua, BA7KW
+Liang Tiewei, BA7NQ
+Zhu ShaoHua, BD4SY
+Li Changhai, BG2AGN
+Edson Pereira, PY2SDR
+Robert Mattaliano, N6RFM
+CD3NDC
+Roland Marcel Zurmely, PY4ZBZ
+PY2ZX
+Jean Marc Momple, 3B8DU
+3B8FA
+Dimitry Borzenko, 4Z5CP
+BD9BU
+BG6LQV
+BG8IXQ
+Mike Rupprecht, DK3WN
+G4RGK
+Lucio Perrone, I0LYL
+IK8XLD
+IU2EFA
+Ferruccio Paglia, IW1DTU
+JA0CAW
+JA1HCB
+JA1OGZ
 JA5BLZ
-Tom Moretto F8COD
-Allen Vinegar W8KHP
+JE1CVL
+Scott Chapman, K4KDR
+KO4MA
+LU1HKO
+LU3DMB
+LU5EWR
+LU8DQ
+M0IEB
+M0VKK
+OZ1BXM
+PA0DLO
+Albert van Deursen, PD0OXW
+Peter, SP5ULN
+SQ3SWF
+SQ5KTM
+VK5EI
+VK5QI
+W2RTV
+Imants Tukleris, YL3CT
