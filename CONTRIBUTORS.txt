@@ -52,7 +52,10 @@ National Astronomical Observatory of China
 
 Amateur Radio Club Of The 1st Primary School Of Tongfuzhong Road, Guangzhou, BY7KTO
 
-Amateur Radio Group at RWTH Aachen University, DL0FHA
+Amateur Radio Group at RWTH Aachen University DL0FHA:
+David Rénée Krieger
+Gabriel Möbius
+Sacha Joseph Tholl
 
 Independent contributors:
 Reinhard Kühn, DK5LA
